@@ -2,3 +2,7 @@ body {
 	color: tomato;
 	background: yellow;
 }
+
+.my-selector {
+	font-size: 12em;
+}
